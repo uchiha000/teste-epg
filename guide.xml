@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="FOX SPORTS2 SD">
+    <display-name lang="pt">FOX SPORTS2 SD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/recordtv-minas.gif|http://www.lineup.tv.br/canais/recordtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="REDE BRASIL">
+    <display-name lang="pt">REDE BRASIL</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvcamara-sjc.gif|http://www.lineup.tv.br/canais/tvalesp.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CINEMAX SD">
+    <display-name lang="pt">CINEMAX SD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tval-ap.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SBT">
+    <display-name lang="pt">SBT</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvsaocarlos.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id=" BAND">
+    <display-name lang="pt"> BAND</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvguanare.gif|http://www.lineup.tv.br/canais/redemeionorte.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FOX SD">
+    <display-name lang="pt">FOX SD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/borafilmes.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+</tv>
