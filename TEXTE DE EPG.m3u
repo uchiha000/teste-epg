@@ -1,0 +1,162 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://www.estelario.com.br/wp-content/uploads/2017/04/eclipse_edit-01-800x533.png"group-title="LISTA ECLIPSE" ,[COLOR red] LISTA ECLIPSE [/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/37/Logo_Rede_Brasil.png" group-title="ABERTA", REDE BRASIL
+http://tv01.logicahost.com.br:1935/rbtv/rbtv/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1000px-FOX_Sports_logo.svg.png" group-title="SPORTS", FOX SPORTS2 SD
+https://ponto.ddelivery.top/hls1/foxsports2.m3u8|Referer=http://redecanais.link
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/bc/c9/04bcc9f062ef063e9ca6116eeb749d0f.jpg" group-title="FILMES E SERIES", TELECINE ACTION
+https://live-edge.pxstream.tv/hls/telecineactionhd/chunks.m3u8?md5=iEHjokx8QZhN3-e31egjBA&expires=1534696189
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Warner-azul.png/220px-Warner-azul.png"group-title="FILMES E SERIES" , WARNER CHANNEL SD
+http://94.176.148.138:8081/live/master22/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDE4IDM6MjA6MjIgUE0maGFzaF92YWx1ZT1RVnBMSWsyT0hXUGlpQ0doYjVzMjB3PT0mdmFsaWRtaW51dGVzPTE2MCZzdHJtX2xlbj0xMw==
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nickelodeon_logo_new.svg/1000px-Nickelodeon_logo_new.svg.png" group-title="INFANTIL", NICK SD
+https://ponto.ddelivery.top/hls1/nick.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:-1 tvg-logo="http://cdn.fstatic.com/public/articles/files/2014/11/3b973339-4353-4376-afa2-040b445b33f7.png" group-title="FILMES", JOGOS VORAZES A ESPERANÇA PT1
+http://cdn2.portalhqs.net/content/delivery/filmes2018/HUNGERGAMESPT1LEG-BAIXO.mp4?token=st=1534564016~exp=1534585616~acl=/content/*~hmac=9767cc8e4af55c9f42757ecaa018e93f
+
+#EXTINF: -1 tvg- logo="FFYlKcWmSv89GysOyEQYwXKE2v1mInTxwCLcBGAs/s1600/hi_tv_.png" group-title= "MUSICA" , HIT TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-q2fHAQMuniU/WjWFxIRuevI/AAAAAAAAAq0/Lzl9Hq-KxvYxhA7S5tp6QBdz0VLZU5wWgCLcBGAs/w1200-h630-p-k-no-nu/assistir-fox-premium-1-online.png" group-title="FOX PREMIUM", FOX PREMIUM1
+https://live-edge.pxstream.tv/hls2/foxpremium1hd/chunks.m3u8?md5=hQPkUAl4eGL-eC6fyQLz_w&expires=1534691423
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-cTuEM00LrwU/WNQtuY6gANI/AAAAAAAAmF0/VWRcVIuNjmgu763YhOFk_TWWfTPLUwn7ACLcB/s1600/FOX%2BPremium%2B2.png" group-title="FOX PREMIUM", FOX PREMIUM2
+https://live-edge.pxstream.tv/hls/foxpremium2hd/chunks.m3u8?md5=do5ssUrfNpqvvbRZvVpgyQ&expires=1534694928
+
+#EXTINF:-1 tvg-logo="https://userscontent2.emaze.com/images/222a51a6-9ec2-4be8-8ea9-ac16bd51b165/f41d9ee78d7e0a4a571a2430e5b8c25e.png" group-title="SOUND", ROCK CLASSICO
+http://192.99.150.31:9125/stream
+
+#EXTINF:-1 tvg-logo="http://chinatvinc.com/tv/wp-content/uploads/2013/06/heart_tv_logo.png" group-title="MUSICA", HEART TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="MUSICA", RETRO MUSICA
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/11/EskaRockTV.png" group-title="MUSICA", ROCK TV
+https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/chunklist_w506647247_b680000.m3u8?publisher=83
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV%21.png" group-title="ABERTA", REDE TV
+https://live-edge.pxstream.tv/hls/redetvhd/chunks.m3u8?md5=KF2FGlExO3NtDW4XFmd_gg&expires=1534697449
+
+#EXTINF: -1 tvg-logo="https://www.iconspng.com/images/music-typography-black/music-typography-black.jpg"group-title= "MUSICA", MUSIC TOP HD
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8 
+
+
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_sportv3-hd_m.png" group-title="SPORTS", SPOTV3 HD
+https://ponto.ddelivery.top/hls1/sportv3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/85/a3/11/85a311c2ab2c02a0be5ff73698183758.jpg" group-title="FILMES E SERIES", TELECINE PREMIUM SD
+https://live-edge.pxstream.tv/hls2/telecinepremium/chunks.m3u8?md5=2Op-HhoTIcF6jPG9-mD9uA&expires=1534695828
+
+
+#EXTINF:-1 tvg-logo="http://assets.stickpng.com/thumbs/5847f1b0cef1014c0b5e485d.png" group-title="SPORTS", ESPN HD
+https://ponto.ddelivery.top/hls1/espnmais.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Cinemax_logo_logo.png" group-title="FILMES E SERIES", CINEMAX SD
+https://ponto.ddelivery.top/hls1/cinemax.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Logo_fox_magazinenegru.png" group-title="FILMES E SERIES", FOX SD
+https://ponto.ddelivery.top/hls1/fox.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="INFANTIL", CARTOON HD
+https://ponto.ddelivery.top/hls1/cartoon.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Disney_Channel_2014_HD.png/320px-Disney_Channel_2014_HD.png" group-title="INFANTIL", DISNEY CHANNEL HD
+https://ponto.ddelivery.top/hls1/disney.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="INFANTIL", BOOMERANG
+https://ponto.ddelivery.top/hls1/boomerang.m3u8
+
+#EXTINF:-1 tvg-logo="http://sin-tele.com/wp-content/uploads/2014/07/h2-history-2-300-144x144.png" group-title="DOCUMENTARIOS", H2 SD
+https://live-edge.pxstream.tv/hls/h2hd/chunks.m3u8?md5=OXht0CnvH-yqCSJrHaX_2g&expires=1534697730
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/87/9e/31/879e319fa0c241c1a60ae5b1de26d901.png" group-title="DOCUMENTARIOS", DISCOVERY CHANNEL HD
+https://ponto.ddelivery.top/hls1/discovery.m3u8|Referer=http://redecanais.link/
+
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-GT3V_ENXM0Y/V5o6HZDtzSI/AAAAAAAAGCs/cSkVSF9rwb4aQQFhUw8xnOZ1ulwsjgXegCLcB/s320/80%25C2%25B4s.png" group-title="SOUND", ANOS 80
+http://192.99.150.31:8697/stream
+
+#EXTINF: -1 tvg-logo="https://skyassineonline.com.br/img/channels/lg-467-canal-anos-90.png"group-title="SOUND", ANOS 90
+http://192.99.150.31:8056/stream
+
+#EXTINF: - tvg-logo="https://lh3.googleusercontent.com/-LwYs_O8LvG4/VZHR0EamSpI/AAAAAAAAAOI/_Mc6aZPrSQU/w800-h800/logo%2Bsbt%2Bflat.png"group-title="ABERTA" , SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1368629137_b176000_sleng.m3u8
+
+#EXTINF: - tvg-logo="https://cdn1.mundodastribos.com/653132-concurso-rede-minas-tv-2013-inscricao-vagas-edital-600x600.jpg"group-title="ABERTA" , REDE MINAS
+https://slbps-sambatech.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VCxqNjXKHAfw%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b954368_DVR.m3u8?sts=st=1534623789~exp=1534630389~acl=/*~hmac=f3ef5803a59665d09095d3149725bea0de52a1d58ff477c67076864f754e6d55
+
+#EXTINF: - tvg-logo="http://www.music1.biz/src/skins/default/img/momentous_music4111.png"group-title="MUSICA" , 1MUSIC
+http://92.249.129.152/stream/1music.m3u8
+
+#EXTINF: - tvg-logo="http://popfixonline.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/p/r/pronto_mpb.jpg"group-title="SOUND" , MPB
+http://192.99.150.31:8775/stream?
+
+#EXTINF: - tvg-logo="https://3.bp.blogspot.com/-laoPewrS2NY/V8O888n-BhI/AAAAAAAAWrU/uraAy2rjGcAUPKAGMH3E4sB8x91R287OQCK4B/s1600/anos70.png"group-title="SOUND" , ANOS 70
+http://192.99.150.31:8241/stream?
+
+#EXTINF: - tvg-logo="https://2.bp.blogspot.com/-qjmPb8tQyiQ/UyDW8nDj4wI/AAAAAAAAApQ/5kGZlz9YXAE/s1600/thing13806967l.png"group-title="SOUND" , ROMANTICAS
+http://192.99.150.31:8962/stream?
+
+#EXTINF: - tvg-logo="https://i.pinimg.com/originals/80/f0/fc/80f0fcba3c101942e55b738c8976b436.jpg"group-title="FILMES" , JOGOS VORAZES
+http://cdn2.portalhqs.net/content/delivery/filmes2018/HUNGERGAMESLEG-BAIXO.mp4?token=st=1534643146~exp=1534664746~acl=/content/*~hmac=74d65cba4994abe7c5e7087de21ccda2
+
+#EXTINF: - tvg-logo="https://www.iconspng.com/images/una-fiesta-de-nabo-/una-fiesta-de-nabo-.jpg" group-title="SOUND" , FESTA
+http://6d9a.webradio.upx.net.br:9070/stream 
+
+#EXTINF: - tvg-logo="https://png.pngtree.com/element_origin_min_pic/17/04/19/8b87d781ff03ade7bc795fb8655991b8.jpg"group-title="SOUND" , MUSICA CLASSICA
+http://6d9a.webradio.upx.net.br:9970/stream
+
+#EXTINF: - 1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Megapix_logo_2011.png/640px-Megapix_logo_2011.png"group-title="FILMES E SERIES" , MEGAPIX
+https://live-edge.pxstream.tv/hls/megapixhd/chunks.m3u8?md5=CsLC5Y-ShUbOPAKDyxEStQ&expires=1534694114
+
+#EXTINF: - tvg-logo="https://i1.wp.com/minilua.com/wp-content/uploads/2010/03/38c1_novologoglobo1.jpg" group-title="ABERTA", GLOBO MG
+https://live-edge.pxstream.tv/hls2/globominas/chunks.m3u8?md5=cvmJIdu1Z1kCREZ_p5AD6g&expires=1534696650
+
+#EXTINF:-1 tvg-logo="http://pixel.nymag.com/imgs/daily/vulture/2013/03/28/28-fx-logo.w1200.h630.jpg" group-title="FILMES E SERIES", FX
+http://94.176.148.138:8081/live/master25/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDE4IDM6MTM6NDYgUE0maGFzaF92YWx1ZT11UlMrKzdWakxHZkxvZ0FBL2Rhcll3PT0mdmFsaWRtaW51dGVzPTE2MCZzdHJtX2xlbj0xMw==
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-uH2cYQSSOv0/WvYqbL-2jmI/AAAAAAABHdI/XBwobCd7jewPKIO4aHK8gJdJjGRUA300wCLcBGAs/s1600/Comabte.png"group-title="SPORTS" , COMBAT HD
+https://ponto.ddelivery.top/hls1/combate.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:- 1 tvg-logo="https://4.bp.blogspot.com/-abhr__gXnb8/VVVZT9ICBTI/AAAAAAADLMY/9-psjxsDmco/s1600/logosimpsons.png"group-title="CANAIS 24hrs" , THE SIMPSONS
+https://live-edge.pxstream.tv/hls/ossimpsons/tracks-v1a1/mono.m3u8?md5=vXE2OLG4n3CPMzZwq8_Ffg&expires=1534734964
+
+#EXTINF:- 1 tvg-logo="https://3.bp.blogspot.com/-YleGraZGkV0/WhIdkVwLBiI/AAAAAAAAAAs/M0abbPYEAhkSt2faZF1buQ6JHSlr0PPJACLcBGAs/s1600/fox2.png"group-title="SPORTS" , FOX SPORT2
+https://cdn.whostreams.net:8443/hls/xfev9la6.m3u8?s=mp3d8hNI6OraN1biZeN73g&e=1534715388
+
+#EXTINF:- 1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/200px-Rede_Bandeirantes_logo_2011.svg.png"group-title="ABERTA" , BAND
+https://live-edge.pxstream.tv/hls/bandhd/chunks.m3u8?md5=WsheOad8x_rjkQGytMvq6A&expires=1534737708
+
+#EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Premiere_FC_logo.png/798px-Premiere_FC_logo.png"group-title="SPORTS" , PREMIERE FC SD
+https://live-edge.pxstream.tv/loadbalance/sat1/chunks.m3u8?md5=et0QCmzVGiYma2z1y-SoTQ&expires=1534740946
+
+#EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Multishow_logo-laranja.png/800px-Multishow_logo-laranja.png"group-title="VARIEDADES" , MULTISHOW SD
+http://94.176.148.138:8081/live/brlive_0031/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDE4IDM6MjU6MjIgUE0maGFzaF92YWx1ZT0zWkFWenJnQ3FSNjJRbzNyM0pUQTJBPT0mdmFsaWRtaW51dGVzPTE2MCZzdHJtX2xlbj0xNg==
+
+#EXTINF:- 1 tvg-logo="https://mitvstatic.com/channels/br_cultura_m.png"group-title="ABERTA" , TV CULTURA
+https://59f1cbe63db89.streamlock.net:1443/redeatividade/_definst_/redeatividade/chunklist_w1153615798.m3u8
+
+#EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/1000px-Amc_logo.svg.png"group-title="FILMES E SERIES" , AMC SD
+https://ponto.ddelivery.top/hls1/amc.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:- 1 tvg-logo="https://1.bp.blogspot.com/-t7ifb0wmEgI/Wj-qhswIK3I/AAAAAAAAB7I/GpMLGuF5icwxwpO87LTotq7tWlZmJiP_wCLcBGAs/s1600/downloadfile-1.png"group-title="INFANTIL" , TOONCAST
+https://ponto.ddelivery.top/hls1/tooncast.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:- 1 tvg-logo="https://mitvstatic.com/channels/co_max-prime-panamericano-hd_m.png"group-title="FILMES E SERIES" , MAX PRIME
+http://94.176.148.138:8081/live/maxxprime/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE4IDc6MTA6MjAgUE0maGFzaF92YWx1ZT1nTGU0S0MxTzd1N09DZENNb0E0SWp3PT0mdmFsaWRtaW51dGVzPTE2MCZzdHJtX2xlbj0xNA==
+
+#EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/aa/Rede_Record_logo_2012.png"group-title="ABERTA" , RECORD
+https://live-edge.pxstream.tv/hls2/record2278/chunks.m3u8?md5=JY16xuLepEnPevJQtK03HQ&expires=1534749849
+
+#EXTINF:- 1 tvg-logo="https://3.bp.blogspot.com/-R9VWan4RDwY/WX63-S19FbI/AAAAAAAAAX4/itZhAqPSGWYG1j8ePAv9giudSOJ9xQQBQCLcBGAs/s400/the-flintstones-551486e220dfc.png"group-title="CANAIS 24hrs" , THE FLINTSTONES
+http://www.blogger.com/video-play.mp4?contentId=15953a51bf8b7f5d
+
+#EXTINF:- 1 tvg-logo="https://abrilveja.files.wordpress.com/2016/12/canalviva.png"group-title="VARIEDADES" , VIVA
+http://94.176.148.138:8081/live/master21/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDE4IDM6Mzg6MzkgUE0maGFzaF92YWx1ZT0rSU9uYmpOSWdzWHAzZ2dOSUJibkl3PT0mdmFsaWRtaW51dGVzPTE2MCZzdHJtX2xlbj0xMw==
